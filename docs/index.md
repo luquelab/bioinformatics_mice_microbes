@@ -3,7 +3,7 @@
 [mice_microbes](https://github.com/luquelab/bioinformatics_mice_microbes) is a colab script for analyzing nucleotide sequences.
 
 
-Given a .faa file, it returns sequence properties such as length, GC content, and translated amino acid sequences.
+Given a .fna file, it returns sequence properties such as length, GC content, and translated amino acid sequences.
 
 It also performs sequence alignments and produces phylogenetic trees.
 
