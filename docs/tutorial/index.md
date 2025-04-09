@@ -8,4 +8,4 @@ Follow the steps described below to obtain sequence information on sequences of 
 1. Upload the list of sequences to be analyzed in the Colab /content folder as "sequences.fna"
 2. Execute the rest of the notebook by navigating the Colab menu `Runtime` and choosing the option `Run all` or `Run after`. This will run the pipeline and generate and store the results.
   + The execution time and maximum size and number of sequences on the computing power and memory of the Colab cloud service used, which depends on the user's Colab plan.
-4. The outputs should write automatically to your /content folder in Colab, which can then be downloaded manually to your system.
+3. The outputs should write automatically to your /content folder in Colab, which can then be downloaded manually to your system.
