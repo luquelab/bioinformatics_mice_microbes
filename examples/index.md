@@ -1,3 +1,7 @@
+<a target="_blank" href="https://colab.research.google.com/github/luquelab/bioinformatics_mice_microbes/blob/main/notebooks/main_pipeline.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # Running mice_microbes remotely on Google Colab
 The simplest way to use mice_microbes is using this [colab notebook](https://github.com/luquelab/bioinformatics_mice_microbes/blob/main/notebooks/main_pipeline.ipynb)
 which runs mice_microbes on a free Google cloud-based platform in a Jupyter environment. The Colab notebook is self documenting and is designed to be simple to use. 
