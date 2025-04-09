@@ -9,3 +9,4 @@ Follow the steps described below to obtain sequence information on sequences of 
 2. Execute the rest of the notebook by navigating the Colab menu `Runtime` and choosing the option `Run all` or `Run after`. This will run the pipeline and generate and store the results.
   + The execution time and maximum size and number of sequences on the computing power and memory of the Colab cloud service used, which depends on the user's Colab plan.
 3. The outputs should write automatically to your /content folder in Colab, which can then be downloaded manually to your system.
+  + Outputs should include: distance_matrix.png, distribution_lengths_GC.png, gc_contents.png, hierarchical_clustering.png, lengths.png, phylogenetic_tree.png, properties.csv, protein_sequences.fasta, sequence_alignments_proteins.faa, temp_proteins.fasta
