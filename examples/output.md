@@ -1,4 +1,4 @@
-![GC Content](https://drive.google.com/uc?id=1UX3789Mz2LcnDEEyUyuPM3BEoOeBI5wG)
+[GC Content](https://drive.google.com/uc?id=1UX3789Mz2LcnDEEyUyuPM3BEoOeBI5wG)
 
 ![Sequence lengths](https://drive.google.com/uc?id=11j9r0npJ2aUYSp8NQv7c8YPfq8JeiliN)
 
