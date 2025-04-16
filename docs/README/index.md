@@ -1,6 +1,6 @@
 ---
-layout: Default
-Title: Read me
+layout: default
+title: Read me
 nav_order: 2
 ---
 
