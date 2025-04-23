@@ -21,6 +21,8 @@ Finally, it identifies likely organisms and functions for each sequence using BL
 ## Repository
 The [Github repository](https://github.com/luquelab/bioinformatics_mice_microbes) can be found here.
 
+Please see the [tutorial](https://luquelab.github.io/bioinformatics_mice_microbes/tutorial/) for help on how to use the pipeline.
+
 In the repository, there is an [example sequence](https://github.com/luquelab/bioinformatics_mice_microbes/blob/main/examples/sequences.fna) that can be run as an input in the pipeline.
 
 ## Project history
