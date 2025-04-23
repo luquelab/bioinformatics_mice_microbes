@@ -1,41 +1,15 @@
-<a target="_blank" href="https://colab.research.google.com/github/luquelab/bioinformatics_mice_microbes/blob/new_create_page_template/notebooks/main_pipeline.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
-Bioinformatics Group Project: Protein Sequence Analysis Pipeline
-================================================================
-
-This project performs comprehensive analysis on a set of DNA sequences. It includes sequence property exploration, translation to protein, multiple and pairwise alignments, phylogenetic tree construction, and BLAST functional annotation.
-
-Want more info? Visit our online page, which includes a tutorial: https://luquelab.github.io/bioinformatics_mice_microbes/
-
-Project Overview
-----------------
-
-This pipeline, written in Python and run via Google Colab, processes input DNA sequences (.fna) to explore their properties and translate them into protein sequences. It then performs various bioinformatics analyses including:
-
-- GC content and sequence length visualization
-- Translation to proteins
-- Multiple sequence alignment (MSA) using Clustal Omega
-- Sequence conservation analysis
-- Pairwise similarity and clustering
-- Phylogenetic tree generation
-- Functional annotation via BLAST
-
-Dependencies
-------------
-
-Ensure the following packages are installed:
-
-pip install biopython matplotlib numpy scipy pandas seaborn
-apt-get install -y clustalo
+---
+layout: default
+title: Tutorial
+nav_order: 3
+---
 
 Steps in the Pipeline
 ---------------------
 
 1. Data Preparation
 
-- Input: sequences.fna (FASTA format)
+- Input: sequences.fna (FASTA format). There is an [example sequence](https://github.com/luquelab/bioinformatics_mice_microbes/blob/main/examples/sequences.fna) that can be run as an input in the pipeline.
 - Parsing: Using Biopython to load sequences
 - Verification: Displays sequence ID, length, and snippet
 
@@ -109,13 +83,3 @@ Notes
 - The pipeline is designed to be run in Google Colab.
 - BLAST queries are performed online using Biopython's NCBIWWW.qblast(). Internet is required.
 - Clustal Omega must be available via command line (clustalo).
-
-Credits
--------
-
-Developed by Of Mice and Microbes.
-Part of the Bioinformatics course group project, Spring 2025.
-
-
-### ---(___C'>   (.o)=   ~
-
