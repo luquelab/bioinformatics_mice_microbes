@@ -9,7 +9,7 @@ Steps in the Pipeline
 
 1. Data Preparation
 
-- Input: sequences.fna (FASTA format)
+- Input: sequences.fna (FASTA format). There is an [example sequence](https://github.com/luquelab/bioinformatics_mice_microbes/blob/main/examples/sequences.fna) that can be run as an input in the pipeline.
 - Parsing: Using Biopython to load sequences
 - Verification: Displays sequence ID, length, and snippet
 
