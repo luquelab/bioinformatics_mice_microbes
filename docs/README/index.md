@@ -13,6 +13,8 @@ Bioinformatics Group Project: Protein Sequence Analysis Pipeline
 
 This project performs comprehensive analysis on a set of DNA sequences. It includes sequence property exploration, translation to protein, multiple and pairwise alignments, phylogenetic tree construction, and BLAST functional annotation.
 
+A tutorial can be found [here](https://luquelab.github.io/bioinformatics_mice_microbes/tutorial/).
+
 Project Overview
 ----------------
 
