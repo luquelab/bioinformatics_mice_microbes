@@ -1,4 +1,4 @@
-<a target="_blank" href="https://colab.research.google.com/github/luquelab/bioinformatics_mice_microbes/blob/new_create_page_template/notebooks/main_pipeline.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/luquelab/bioinformatics_mice_microbes/blob/main/notebooks/main_pipeline.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
